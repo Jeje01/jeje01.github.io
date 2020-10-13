@@ -1,4 +1,4 @@
-title: Texture Theme
+title: Jeje01의 블로그
 author: Jeje01
 email: jje141@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -20,7 +20,7 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
